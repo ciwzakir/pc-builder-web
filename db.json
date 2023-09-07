@@ -1,0 +1,578 @@
+{
+  "pcdata": [
+    {
+      "id": "1",
+      "image_url": "/images/processor-1.jpg",
+      "name": "Intel 10th Gen Core i3 10100F Processor",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": 15000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "2",
+      "image_url": "/images/processor-2.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "Out of Stock",
+      "price": 20000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel ",
+        "model": "12th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "10 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.5,
+      "reviews": "“I got a pair of PC from store X and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "3",
+      "image_url": "/images/processor-3.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "Out of Stock",
+      "price": 18000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel ",
+        "model": "8th Gen Core i5 10100H",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 4.6,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "4",
+      "image_url": "/images/processor-4.jpg",
+      "name": "Processor ",
+      "category": "Processor",
+      "status": "In Stock",
+      "price": 17000,
+      "description": "Here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel ",
+        "model": "8th Gen Core i5 10100H",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+
+      "average_rating": 5,
+      "reviews": "“I got a pair of PC from store X and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "5",
+      "image_url": "/images/motherboard-1.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "6",
+      "image_url": "/images/motherboard-2.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "Out of Stock",
+      "price": 12000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "7",
+      "image_url": "/images/motherboard-3.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "In Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "8",
+      "image_url": "/images/motherboard-4.jpg",
+      "name": "Motherboard ",
+      "category": "Motherboard",
+      "status": "Out of Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "9",
+      "image_url": "/images/ram-1.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 5000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "10",
+      "image_url": "/images/ram-2.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "Out of Stock",
+      "price": 6000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "11",
+      "image_url": "/images/ram-3.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "In Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "12",
+      "image_url": "/images/ram-4.jpg",
+      "name": "RAM ",
+      "category": "RAM",
+      "status": "Out of Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "13",
+      "image_url": "/images/powersupply-1.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "price": 7000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "14",
+      "image_url": "/images/powersupply-2.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "In Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "15",
+      "image_url": "/images/powersupply-3.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "Out of Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "16",
+      "image_url": "/images/powersupply-4.jpg",
+      "name": "Power Supply  ",
+      "category": "Power Supply Unit",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "17",
+      "image_url": "/images/storage-1.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 8000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "18",
+      "image_url": "/images/storage-2.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 9000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "19",
+      "image_url": "/images/storage-3.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "In Stock",
+      "price": 10000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "20",
+      "image_url": "/images/storage-4.jpg",
+      "name": "Storage Device ",
+      "category": "Storage Device",
+      "status": "Out of Stock",
+      "price": 12000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "21",
+      "image_url": "/images/monitor-1.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 15000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "22",
+      "image_url": "/images/monitor-2.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "Out of Stock",
+      "price": 18000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "23",
+      "image_url": "/images/monitor-3.jpg",
+      "name": "Monitor ",
+      "category": "Monitor",
+      "status": "In Stock",
+      "price": 17000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "24",
+      "image_url": "/images/monitor-4.jpg",
+      "name": "Processor ",
+      "category": "Monitor",
+      "status": "Out of Stock",
+      "price": 25000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "25",
+      "image_url": "/images/others-1.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 2000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "26",
+      "image_url": "/images/others-2.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "Out of Stock",
+      "price": 5000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "27",
+      "image_url": "/images/others-3.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "In Stock",
+      "price": 3000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    },
+    {
+      "id": "28",
+      "image_url": "/images/others-4.jpg",
+      "name": "Others ",
+      "category": "Others",
+      "status": "Out of Stock",
+      "price": 6000,
+      "description": "here are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. ",
+      "key_features": {
+        "brand": "Intel",
+        "model": "10th Gen Core i3 10100F",
+        "specification": "6M Intel Smart Cache",
+        "port_type": "8 Port supported",
+        "resolution": "Cores- 4 & Threads- 8",
+        "voltage": "100/1000 Mbps"
+      },
+      "individual_rating": 4.8,
+      "average_rating": 5,
+      "reviews": "I got a pair of PC from store  and I’m very satisfied. They are high-quality and worth the money. The store also offered free shipping at that price so that’s a plus!"
+    }
+  ]
+}
